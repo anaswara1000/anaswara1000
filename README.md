@@ -1,6 +1,6 @@
 ## Hi, I am Anaswara👋
 
-🔭 I’m currently working on dsa and some mini projects
+🔭 I’m currently working on DSA and some mini projects
 
 📫 How to reach me: [gmail](anaswara2130@gmail.com)
 
