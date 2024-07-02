@@ -6,7 +6,6 @@
 📫 How to reach me: [gmail](anaswara2130@gmail.com)
 😄 Pronouns: she/her
 
-[![Anaswara's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaswara1000)](https://github.com/anaswara1000/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.anaswara.r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anaswara-r-krishnan) 
